@@ -1,0 +1,3 @@
+### Thoughts
+
+With this project, I decided to take the first couple of days to think through all important moments to it. Without code at all. I tried to use AI chat Bard to guide me towards the answers I was struggling to come by. However, it fell short quickly. I eventually turned to the Odin server for clarification. Coming up with a solution on paper is extremely beneficial. I realized that I had been thinking too abstractly to solve the problem. I need to come to terms with the fact that programming is, yes, abstract thinking. But still to reach a solution, I have to write out specific steps to take. 
